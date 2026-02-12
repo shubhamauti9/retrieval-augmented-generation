@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">RAG from Scratch</h1>
+  <h1 align="center">Retrieval-Augmented Generation pipeline</h1>
   <p align="center">
     <strong>Build a production-ready Retrieval-Augmented Generation pipeline from the ground up.</strong>
   </p>
