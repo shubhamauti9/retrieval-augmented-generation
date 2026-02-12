@@ -1,0 +1,47 @@
+# Git
+.git/
+.gitignore
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Data & model caches
+data/
+models/
+*.bin
+*.pt
+*.onnx
+
+# Logs & tests
+*.log
+logs/
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Documentation & misc
+README.md
+examples/
+docker-compose*.yml
+Dockerfile
